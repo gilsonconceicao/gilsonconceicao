@@ -1,6 +1,6 @@
 ## Hello, i am Gilson Conceição! 👋
 ### Minhas redes <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-conceicao/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilson_conceicao02/) [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilsonconceicaosantos.jr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-conceicao/) [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilsonconceicaosantos.jr@gmail.com)
 ## 
 ![Gilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsonconceicao&=true&theme=tokyonight)
 
