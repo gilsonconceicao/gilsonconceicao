@@ -2,8 +2,6 @@
 ### My networks <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-conceicao/) [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilsonconceicaosantos.jr@gmail.com)
 ## 
-![Gilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsonconceicao&=true&theme=tokyonight)
-
 ## Technologies I use in my daily life
 
 <div style="display: inline_block"><br/>
