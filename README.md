@@ -1,16 +1,67 @@
-## Hello, i am Gilson Conceição! 👋
-### My networks <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-conceicao/) [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilsonconceicaosantos.jr@gmail.com)
-## 
-## Technologies I use in my daily life
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="csharp" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-    <img align="center" alt="dotnet" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"> 
-    <img align="center" alt="react" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="center" alt="typescript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="javascript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-<div style="display: inline_block">
-    
-### Be more you! 🚀
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gilson-conceicao/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+</div>
+
+###
+
+<h1 align="center">Hi there 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+My name is <strong>Gilson Conceição</strong>, I'm a <strong>Web Developer</strong> from Brazil 🇧🇷.<br><br>
+- 🔭 I’m currently working as a Full-stack Developer.<br>
+- 📚 Currently learning clean architecture, domain-driven design (DDD) and cloud integrations<br>
+- ⚡ In my free time, I build personal projects, study back-end and experiment with new techs<br>
+</p>
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+
+  <!-- C# / .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" />
+  &nbsp;
+  <!-- Node / JS / TS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo" />
+&nbsp;
+  <!-- React / Next -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+&nbsp;
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+&nbsp;
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+
+</div>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=gilsonconceicao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
