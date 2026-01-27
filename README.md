@@ -53,12 +53,4 @@ My name is <strong>Gilson Conceição</strong>, I'm a <strong>Web Developer</str
   <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=gilsonconceicao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
